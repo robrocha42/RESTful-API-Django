@@ -1,0 +1,8 @@
+# arquivos da IDE
+*.idea
+# arquivos compilados do python
+*pyc
+# virtual enviroment
+.venv
+#secret key
+secret_key.txt
