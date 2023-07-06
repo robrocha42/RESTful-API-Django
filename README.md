@@ -60,3 +60,4 @@ python manage.py runserver</h2>
 
 ![img_1.png](img_1.png)
 
+![image](https://github.com/robrocha42/RESTful-API-Django/assets/134662030/d37b722e-0cb7-4142-81e5-9c8d505940f8)
