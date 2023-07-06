@@ -12,7 +12,7 @@ Crie de forma rápida uma API RESTful utilizando Django e Django Rest Framework
  
  python -m venv venv</h2>
 
-<h2>3 - Ative a sua venv (venv\Scripts\Activate)</h2>
+<h2>3 - Ative a sua venv (venv/Scripts/Activate)</h2>
 
 <h2>4 - Dentro da pasta library, instale o Django / Django Rest Framework pelo comando:
  <br><br>
@@ -30,13 +30,13 @@ django-admin startapp books</h2>
 <br><br>
 python manage.py migrate</h2>
 
-<h2>8 - Copie o código do arquivo settings.py deste repositorio (\library\settings.py) para o seu settings.py, cuidado com a sua secret key</h2>
+<h2>8 - Copie o código do arquivo settings.py deste repositorio (/library/settings.py) para o seu settings.py, cuidado com a sua secret key</h2>
 
-<h2>9 - Copie o código do arquivo models.py deste repositorio (\books\models.py) para o seu models.py</h2>
+<h2>9 - Copie o código do arquivo models.py deste repositorio (/books/models.py) para o seu models.py</h2>
 
-<h2>10 - Copie a pasta \books\api deste repositorio para o seu \books</h2>
+<h2>10 - Copie a pasta /books/api deste repositorio para o seu \books</h2>
 
-<h2>11 - Copie o código do arquivo urls.py deste repositorio (\library\urls.py) para o seu urls.py</h2>
+<h2>11 - Copie o código do arquivo urls.py deste repositorio (/library/urls.py) para o seu urls.py</h2>
 
 <h2>12 - Execute o comando a seguir para instalar a biblioteca pillow:
 <br><br>
